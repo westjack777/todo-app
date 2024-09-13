@@ -33,5 +33,9 @@ Get **.NET SDK** from [here](https://dotnet.microsoft.com/download).
 From a command prompt window:
 - Clone the project `git clone https://github.com/westjack777/todoapp.git`
 - Navigate to `todoapp\api\ToDoApp\ToDoApp` and run `dotnet run`.
-- Navigate to `todoapp\ui` and run `npm start`.
+- Navigate to `todoapp\ui` and run:  
+```
+  npm install
+  npm start
+```
 
